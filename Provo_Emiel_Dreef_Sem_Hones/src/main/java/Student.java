@@ -1,5 +1,8 @@
 public class Student {
-    public int return0(){
-        return 0;
+    private int id;
+    private String naam;
+
+    public void aanmeldenToets(){
+
     }
 }

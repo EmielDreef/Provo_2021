@@ -6,6 +6,5 @@ public class KortAntwoordVraag {
 
 	private int punten;
 
-	private Vraag vraag;
 
 }

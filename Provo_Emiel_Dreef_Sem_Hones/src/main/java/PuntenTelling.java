@@ -1,8 +1,3 @@
-import Strategy.HogePuntenStrategie;
-import Strategy.LagePuntenStrategie;
-import Strategy.MediumPuntenStrategie;
-import Strategy.PuntenTellingStrategie;
-
 public class PuntenTelling {
     private static final long SNELLE_TIJD = 2;
     private static final long MEDIUM_TIJD = 5;

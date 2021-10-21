@@ -1,5 +1,15 @@
 public class Antwoord {
-    public int return0(){
-        return 0;
+    private String antwoord;
+
+    public Antwoord(String antwoord){
+        this.antwoord = antwoord;
+    }
+
+    public String getAntwoord() {
+        return antwoord;
+    }
+
+    public void setAntwoord(String antwoord) {
+        this.antwoord = antwoord;
     }
 }
